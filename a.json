@@ -1200,10 +1200,8 @@
     ],
     "lives": [
         {
-            "name": "live2",
-            "type": 0,
+            "name": "lives",
             "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/NoTionGG/MyIPTV/main/iptv.txt",
-            "ua": "okhttp/3.12.13",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
