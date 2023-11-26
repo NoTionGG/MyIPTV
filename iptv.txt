@@ -164,49 +164,49 @@ CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 
 陕西移动,#genre#
-CCTV1 「12M·1080」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
-CCTV2 「12M·1080」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
-CCTV3 「4M·1080」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
-CCTV4 「12M·1080」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8
-CCTV5 「4M·1080」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-CCTV5+ 「12M·1080」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
-CCTV6 「4M·1080」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
-CCTV6 「4M·1080」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
-CCTV7 「4M·1080」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
-CCTV8 「4M·1080」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
-CCTV8 「4M·1080」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
-CCTV9 「4M·1080」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
-CCTV10 「4M·1080」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
-CCTV11 「8M·1080」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
-CCTV12 「4M·1080」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
-CCTV13 「8M·1080」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
-CCTV14 「4M·1080」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
-CCTV15 「8M·1080」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
-CCTV16 「4M·1080」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
-CCTV17 「4M·1080」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
-浙江卫视 「12M·1080」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
-天津卫视 「12M·1080」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/index.m3u8
-湖南卫视 「12M·1080」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8
-东方卫视 「12M·1080」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8
-江苏卫视 「12M·1080」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
-辽宁卫视 「12M·1080」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226210/index.m3u8
-北京卫视 「12M·1080」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8
-广东卫视 「12M·1080」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8
-湖北卫视 「12M·1080」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8
-山东卫视 「12M·1080」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8
-深圳卫视 「12M·1080」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
-安徽卫视 「12M·1080」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226196/index.m3u8
-龙江卫视 「12M·1080」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8
-重庆卫视 「3M·1080」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226202/index.m3u8
-CCTV世界地理 「8M·1080」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226947/index.m3u8
-CCTV兵器科技 「8M·1080」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226975/index.m3u8
-CCTV央视台球 「8M·1080」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/index.m3u8
-CCTV央视文化 「8M·1080」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226981/index.m3u8
-CCTV女性时尚 「8M·1080」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226969/index.m3u8
-CCTV怀旧剧场 「8M·1080」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226972/index.m3u8
-CCTV电视指南 「8M·1080」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226987/index.m3u8
-CCTV第一剧场 「8M·1080」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226959/index.m3u8
-CCTV风云剧场 「8M·1080」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226950/index.m3u8
-CCTV风云足球 「8M·1080」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/index.m3u8
-CCTV风云音乐 「4M·1080」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226953/index.m3u8
-CCTV高尔夫球 「8M·1080」,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226978/index.m3u8
+CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
+CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
+CCTV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
+CCTV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8
+CCTV5,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+CCTV5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
+CCTV6,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
+CCTV6,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
+CCTV7,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
+CCTV8,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
+CCTV8,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
+CCTV9,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+CCTV10,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
+CCTV11,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
+CCTV12,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
+CCTV13,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+CCTV14,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
+CCTV15,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
+CCTV16,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+CCTV17,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
+浙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
+天津卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/index.m3u8
+湖南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8
+东方卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8
+江苏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
+辽宁卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226210/index.m3u8
+北京卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8
+广东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8
+湖北卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8
+山东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8
+深圳卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
+安徽卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226196/index.m3u8
+黑龙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8
+重庆卫视 3M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226202/index.m3u8
+CCTV世界地理,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226947/index.m3u8
+CCTV兵器科技,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226975/index.m3u8
+CCTV央视台球,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/index.m3u8
+CCTV央视文化精品,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226981/index.m3u8
+CCTV女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226969/index.m3u8
+CCTV怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226972/index.m3u8
+CCTV电视指南,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226987/index.m3u8
+CCTV第一剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226959/index.m3u8
+CCTV风云剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226950/index.m3u8
+CCTV风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/index.m3u8
+CCTV风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226953/index.m3u8
+CCTV高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226978/index.m3u8
