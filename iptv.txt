@@ -1,4 +1,4 @@
-江苏·央视V6·蓝光,#genre#
+央视IPV6,#genre#
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221227896/index.m3u8
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/3/224/3221227896/index.m3u8
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221227467/index.m3u8
@@ -156,7 +156,7 @@ CCTV央视文化精品,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.
 4KUHD,http://[2409:8087:2001:20:2800:0:df6e:eb10]/ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8
 4KUHD,http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8
 
-江苏·卫视V6·蓝光,#genre#
+卫视IPV6,#genre#
 黑龙江卫视,http://[2409:8087:2001:20:2800:0:df6e:eb16]/ott.mobaibox.com/PLTV/3/224/3221227514/index.m3u8
 黑龙江卫视,http://[2409:8087:2001:20:2800:0:df6e:eb17]/ott.mobaibox.com/PLTV/3/224/3221227514/index.m3u8
 哈尔滨新闻,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226434/index.m3u8
@@ -233,10 +233,6 @@ CCTV央视文化精品,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.
 
 
 设备差不要看,#genre#
-4KUHD,http://[2409:8087:2001:20:2800:0:df6e:eb10]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
-4KUHD,http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
-4KUHD,http://[2409:8087:2001:20:2800:0:df6e:eb10]/ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8
-4KUHD,http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8
 江苏4K修复,http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
 江苏4K修复,http://[2409:8087:2001:20:2800:0:df6e:eb15]/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
 江苏8K测试,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
