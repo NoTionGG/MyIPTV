@@ -238,8 +238,8 @@ CCTV央视文化精品,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.
 4K修复,http://[2409:8087:2001:20:2800:0:df6e:eb15]/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
 江苏8K测试,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 江苏8K测试,http://[2409:8087:2001:20:2800:0:df6e:eb05]/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
-纪实科教,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
-BTV科教,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8,tvmao-beijingkejiao
+BTV纪实科教,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
+
 备份·IPV6,#genre#
 CCTV1,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001022/index.m3u8?love=freedom
 CCTV2,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001220/index.m3u8?love=freedom
