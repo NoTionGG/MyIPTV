@@ -138,5 +138,5 @@ http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/32212281
 http://[2409:8087:2001:20:2800:0:df6e:eb05]/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 #EXTINF:-1,tvg-id="北京卫视纪实科教" tvg-name="北京卫视纪实科教" tvg-logo="https://epg.112114.xyz/logo/纪实科教.png" group-title="卫视",北京纪实8K
 http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
-#EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://epg.112114.xyz/logo/北京纪实.png" group-title="卫视",北京纪实8K
+#EXTINF:-1,tvg-id="北京卫视纪实科教" tvg-name="北京卫视纪实科教" tvg-logo="https://epg.112114.xyz/logo/纪实科教.png" group-title="卫视",北京纪实8K
 http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
