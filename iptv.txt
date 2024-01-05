@@ -239,10 +239,6 @@ CCTV央视文化精品,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.
 电视剧轮播，http://[2409:8087:2001:20:2800:0:df6e:eb21]/ott.mobaibox.com/PLTV/3/224/3221228465/index.m3u8
 电视剧轮播，http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/3221228465/index.m3u8
 电视剧轮播，http://[2409:8087:2001:20:2800:0:df6e:eb25]/ott.mobaibox.com/PLTV/3/224/3221228465/index.m3u8
-百姓生活,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/3/224/3221228466/index.m3u8
-百姓生活,http://[2409:8087:2001:20:2800:0:df6e:eb21]/ott.mobaibox.com/PLTV/3/224/3221228466/index.m3u8
-百姓生活,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/3221228466/index.m3u8
-百姓生活,http://[2409:8087:2001:20:2800:0:df6e:eb25]/ott.mobaibox.com/PLTV/3/224/3221228466/index.m3u8
 
 NewTV,#genre#
 NewTV爱情喜剧,http://[2409:8087:2001:20:2800:0:df6e:eb1a]/ott.mobaibox.com/PLTV/3/224/3221227548/index.m3u8
