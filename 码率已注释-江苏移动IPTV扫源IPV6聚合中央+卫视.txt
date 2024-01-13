@@ -527,6 +527,9 @@ CCTV3-8M,http://[2409:8087:2001:20:2800:0:df6e:eb0f]/ott.mobaibox.com/PLTV/3/224
 CCTV4-12M,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221227549/index.m3u8
 CCTV4-12M,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221227549/index.m3u8
 
+CCTV4-12M,http://[2409:8087:2001:20:2800:0:df6e:eb1a]/ott.mobaibox.com/PLTV/3/224/3221228091/index.m3u8
+CCTV4-12M,http://[2409:8087:2001:20:2800:0:df6e:eb1b]/ott.mobaibox.com/PLTV/3/224/3221228091/index.m3u8
+
 CCTV4-3M,http://[2409:8087:2001:20:2800:0:df6e:eb06]/ott.mobaibox.com/PLTV/3/224/3221227378/index.m3u8
 CCTV4-3M,http://[2409:8087:2001:20:2800:0:df6e:eb07]/ott.mobaibox.com/PLTV/3/224/3221227378/index.m3u8
 
@@ -914,6 +917,7 @@ CCTV7-4M,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/3/224
 
 CCTV7-8M,http://[2409:8087:2001:20:2800:0:df6e:eb0e]/ott.mobaibox.com/PLTV/3/224/3221227626/index.m3u8
 CCTV7-8M,http://[2409:8087:2001:20:2800:0:df6e:eb0f]/ott.mobaibox.com/PLTV/3/224/3221227626/index.m3u8
+
 CCTV7-8M,http://[2409:8087:2001:20:2800:0:df6e:eb10]/ott.mobaibox.com/PLTV/3/224/3221227642/index.m3u8
 CCTV7-8M,http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221227642/index.m3u8
 
@@ -1198,6 +1202,7 @@ CETV早期教育-8M,http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com
 
 重庆卫视-4M,http://[2409:8087:2001:20:2800:0:df6e:eb1a]/ott.mobaibox.com/PLTV/3/224/3221227550/index.m3u8
 重庆卫视-4M,http://[2409:8087:2001:20:2800:0:df6e:eb1b]/ott.mobaibox.com/PLTV/3/224/3221227550/index.m3u8
+
 重庆卫视-4M,http://[2409:8087:2001:20:2800:0:df6e:eb16]/ott.mobaibox.com/PLTV/3/224/3221227632/index.m3u8
 重庆卫视-4M,http://[2409:8087:2001:20:2800:0:df6e:eb17]/ott.mobaibox.com/PLTV/3/224/3221227632/index.m3u8
 
@@ -1384,11 +1389,12 @@ CETV早期教育-8M,http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com
 吉林卫视-4.5M,http://[2409:8087:2001:20:2800:0:df6e:eb0a]/ott.mobaibox.com/PLTV/3/224/3221228028/index.m3u8
 吉林卫视-4.5M,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/ott.mobaibox.com/PLTV/3/224/3221228028/index.m3u8
 
-吉林卫视-4M,http://[2409:8087:2001:20:2800:0:df6e:eb1a]/ott.mobaibox.com/PLTV/3/224/3221227568/index.m3u8
-吉林卫视-4M,http://[2409:8087:2001:20:2800:0:df6e:eb1b]/ott.mobaibox.com/PLTV/3/224/3221227568/index.m3u8
-
 吉林卫视-8M,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228130/index.m3u8
 吉林卫视-8M,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/3/224/3221228130/index.m3u8
+
+甘肃卫视-4M,http://[2409:8087:2001:20:2800:0:df6e:eb1a]/ott.mobaibox.com/PLTV/3/224/3221227568/index.m3u8
+甘肃卫视-4M,http://[2409:8087:2001:20:2800:0:df6e:eb1b]/ott.mobaibox.com/PLTV/3/224/3221227568/index.m3u8
+
 
 江苏卫视-12M,http://[2409:8087:2001:20:2800:0:df6e:eb16]/ott.mobaibox.com/PLTV/3/224/3221227552/index.m3u8
 江苏卫视-12M,http://[2409:8087:2001:20:2800:0:df6e:eb17]/ott.mobaibox.com/PLTV/3/224/3221227552/index.m3u8
@@ -1652,10 +1658,6 @@ NewTV怡伴健康-4M,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.co
 NewTV怡伴健康-4M,http://[2409:8087:2001:20:2800:0:df6e:eb19]/ott.mobaibox.com/PLTV/3/224/3221227612/index.m3u8
 NewTV中国功夫-4M,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221227530/index.m3u8
 NewTV中国功夫-4M,http://[2409:8087:2001:20:2800:0:df6e:eb19]/ott.mobaibox.com/PLTV/3/224/3221227530/index.m3u8
-
-
-
-
 
 
 江苏-地方,#genre#
