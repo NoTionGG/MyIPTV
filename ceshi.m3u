@@ -65,19 +65,24 @@ http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/3/224/32212286
 http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/3/224/3221228677/index.m3u8
 #EXTINF:-1,tvg-id="4KUHD" tvg-name="4KUHD" tvg-logo="https://epg.112114.xyz/logo/4KUHD.png" group-title="卫视",4KUHD
 http://[2409:8087:2001:20:2800:0:df6e:eb10]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
-#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="其他",SiTV欢笑剧场4K
+#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="卫视",SiTV欢笑剧场4K
 http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226582/index.m3u8
-#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="其他",SiTV欢笑剧场4K
+#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="卫视",SiTV欢笑剧场4K
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226582/index.m3u8
 #EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb16]/ott.mobaibox.com/PLTV/3/224/3221227514/index.m3u8
 #EXTINF:-1,tvg-id="哈尔滨新闻综合" tvg-name="哈尔滨新闻综合" tvg-logo="https://epg.112114.xyz/logo/hrbxwzh.png" group-title="卫视",哈尔滨新闻综合
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226434/index.m3u8
+#EXTINF:-1,tvg-id="哈尔滨新闻综合" tvg-name="哈尔滨新闻综合" tvg-logo="https://epg.112114.xyz/logo/hrbxwzh.png" group-title="卫视",哈尔滨新闻综合
 http://39.134.65.106/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226434/index.m3u8
-#EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://epg.112114.xyz/logo/北京纪实.png" group-title="北京",北京纪实科教
+#EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://epg.112114.xyz/logo/纪实科教.png" group-title="卫视",北京纪实科教
 http://[2409:8087:2001:20:2800:0:df6e:eb0e]/ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8
-#EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://epg.112114.xyz/logo/北京纪实.png" group-title="北京",北京纪实科教
+#EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://epg.112114.xyz/logo/纪实科教.png" group-title="卫视",北京纪实科教
 http://[2409:8087:2001:20:2800:0:df6e:eb0f]/ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8
+#EXTINF:-1,tvg-id="北京卫视纪实科教" tvg-name="北京卫视纪实科教" tvg-logo="https://epg.112114.xyz/logo/纪实科教.png" group-title="卫视",北京纪实8K
+http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
+#EXTINF:-1,tvg-id="北京卫视纪实科教" tvg-name="北京卫视纪实科教" tvg-logo="https://epg.112114.xyz/logo/纪实科教.png" group-title="卫视",北京纪实8K
+http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb16]/ott.mobaibox.com/PLTV/3/224/3221227482/index.m3u8
 #EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="卫视",浙江卫视
@@ -146,10 +151,6 @@ http://[2409:8087:2001:20:2800:0:df6e:eb15]/ott.mobaibox.com/PLTV/3/224/32212281
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 #EXTINF:-1,tvg-id="江苏8K测试" tvg-name="江苏8K测试" tvg-logo="https://epg.112114.xyz/logo/江苏8K测试.png" group-title="卫视",江苏8K测试
 http://[2409:8087:2001:20:2800:0:df6e:eb05]/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
-#EXTINF:-1,tvg-id="北京卫视纪实科教" tvg-name="北京卫视纪实科教" tvg-logo="https://epg.112114.xyz/logo/纪实科教.png" group-title="卫视",北京纪实8K
-http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
-#EXTINF:-1,tvg-id="北京卫视纪实科教" tvg-name="北京卫视纪实科教" tvg-logo="https://epg.112114.xyz/logo/纪实科教.png" group-title="卫视",北京纪实8K
-http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 #EXTINF:-1,tvg-id="NEWTV爱情喜剧" tvg-name="NEWTV爱情喜剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV爱情喜剧.png" group-title="NEWTV",NewTV爱情喜剧
 http://[2409:8087:2001:20:2800:0:df6e:eb1a]/ott.mobaibox.com/PLTV/3/224/3221227548/index.m3u8
 #EXTINF:-1,tvg-id="NEWTV爱情喜剧" tvg-name="NEWTV爱情喜剧" tvg-logo="https://epg.112114.xyz/logo/NEWTV爱情喜剧.png" group-title="NEWTV",NewTV爱情喜剧
@@ -182,13 +183,13 @@ http://[2409:8087:2001:20:2800:0:df6e:eb19]/ott.mobaibox.com/PLTV/3/224/32212275
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221227536/index.m3u8
 #EXTINF:-1,tvg-id="NEWTV惊悚悬疑" tvg-name="NEWTV惊悚悬疑" tvg-logo="https://epg.112114.xyz/logo/NEWTV惊悚悬疑.png" group-title="NEWTV",NewTV惊悚悬疑
 http://[2409:8087:2001:20:2800:0:df6e:eb19]/ott.mobaibox.com/PLTV/3/224/3221227536/index.m3u8
-#EXTINF:-1,tvg-id="NewTV精品记录" tvg-name="NewTV精品记录" tvg-logo="https://epg.112114.xyz/logo/NEWTV精品记录.png" group-title="NEWTV",NewTV精品记录
+#EXTINF:-1,tvg-id="NewTV精品记录" tvg-name="NewTV精品记录" tvg-logo="https://epg.112114.xyz/logo/NEWTVJPJL.png" group-title="NEWTV",NewTV精品记录
 http://[2409:8087:2001:20:2800:0:df6e:eb1a]/ott.mobaibox.com/PLTV/3/224/3221227547/index.m3u8
-#EXTINF:-1,tvg-id="NewTV精品记录" tvg-name="NewTV精品记录" tvg-logo="https://epg.112114.xyz/logo/NEWTV精品记录.png" group-title="NEWTV",NewTV精品记录
+#EXTINF:-1,tvg-id="NewTV精品记录" tvg-name="NewTV精品记录" tvg-logo="https://epg.112114.xyz/logo/NEWTVJPJL.png" group-title="NEWTV",NewTV精品记录
 http://[2409:8087:2001:20:2800:0:df6e:eb1b]/ott.mobaibox.com/PLTV/3/224/3221227547/index.m3u8
-#EXTINF:-1,tvg-id="NewTV精品剧场" tvg-name="NewTV精品剧场" tvg-logo="https://epg.112114.xyz/logo/精品剧场.png" group-title="NEWTV",NewTV精品剧场
+#EXTINF:-1,tvg-id="NewTV精品剧场" tvg-name="NewTV精品剧场" tvg-logo="https://epg.112114.xyz/logo/NEWTV精品大剧.png" group-title="NEWTV",NewTV精品剧场
 http://[2409:8087:2001:20:2800:0:df6e:eb1a]/ott.mobaibox.com/PLTV/3/224/3221227618/index.m3u8
-#EXTINF:-1,tvg-id="NewTV精品剧场" tvg-name="NewTV精品剧场" tvg-logo="https://epg.112114.xyz/logo/精品剧场.png" group-title="NEWTV",NewTV精品剧场
+#EXTINF:-1,tvg-id="NewTV精品剧场" tvg-name="NewTV精品剧场" tvg-logo="https://epg.112114.xyz/logo/NEWTV精品大剧.png" group-title="NEWTV",NewTV精品剧场
 http://[2409:8087:2001:20:2800:0:df6e:eb1b]/ott.mobaibox.com/PLTV/3/224/3221227618/index.m3u8
 #EXTINF:-1,tvg-id="NewTV精品萌宠" tvg-name="NewTV精品萌宠" tvg-logo="https://epg.112114.xyz/logo/NEWTV精品萌宠.png" group-title="NEWTV",NewTV精品萌宠
 http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/3/224/3221228430/index.m3u8
@@ -198,9 +199,9 @@ http://[2409:8087:2001:20:2800:0:df6e:eb21]/ott.mobaibox.com/PLTV/3/224/32212284
 http://[2409:8087:2001:20:2800:0:df6e:eb1a]/ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
 #EXTINF:-1,tvg-id="NEWTV精品体育" tvg-name="NEWTV精品体育" tvg-logo="https://epg.112114.xyz/logo/NEWTV精品体育.png" group-title="NEWTV",NewTV精品体育
 http://[2409:8087:2001:20:2800:0:df6e:eb1b]/ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
-#EXTINF:-1,tvg-id="NewTV精选影视" tvg-name="NewTV精选影视" tvg-logo="https://epg.112114.xyz/logo/NEWTV精选影视.png" group-title="NEWTV",NewTV精选影视
+#EXTINF:-1,tvg-id="NewTV精选影视" tvg-name="NewTV精选影视" tvg-logo="https://epg.112114.xyz/logo/NEWTV精品电影.png" group-title="NEWTV",NewTV精选影视
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8
-#EXTINF:-1,tvg-id="NewTV精选影视" tvg-name="NewTV精选影视" tvg-logo="https://epg.112114.xyz/logo/NEWTV精选影视.png" group-title="NEWTV",NewTV精选影视
+#EXTINF:-1,tvg-id="NewTV精选影视" tvg-name="NewTV精选影视" tvg-logo="https://epg.112114.xyz/logo/NEWTV精品电影.png" group-title="NEWTV",NewTV精选影视
 http://[2409:8087:2001:20:2800:0:df6e:eb05]/ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8
 #EXTINF:-1,tvg-id="NEWTV军旅剧场" tvg-name="NEWTV军旅剧场" tvg-logo="https://epg.112114.xyz/logo/NEWTV军旅剧场.png" group-title="NEWTV",NewTV军旅剧场
 http://[2409:8087:2001:20:2800:0:df6e:eb06]/ott.mobaibox.com/PLTV/3/224/3221227603/index.m3u8
