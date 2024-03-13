@@ -250,7 +250,7 @@ CGTN-俄语,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/8888888
 CGTN-法语,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227058/index.m3u8
 CGTN-记录,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227084/index.m3u8
 CGTN-西班牙语,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227098/index.m3u8
-CGTN-英语,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225745/index.m3u8
+CGTN-英语,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225745/index.m3u8
 CETV1,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225753/index.m3u8
 CETV2,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
 CETV3,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
@@ -354,6 +354,7 @@ CGTN-俄语,http:///dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227078/index
 CGTN-法语,http:///dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227058/index.m3u8
 CGTN-记录,http:///dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227084/index.m3u8
 CGTN-西班牙语,http:///dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227098/index.m3u8
+CGTN-英语,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225745/index.m3u8
 CETV1,http:///dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225753/index.m3u8
 CETV2,http:///dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
 CETV3,http:///dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
