@@ -88,3 +88,4 @@
     "lives":[
     {"name":"live","type":0,"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/NoTionGG/MyIPTV/main/iptv.txt","playerType":1},
     {"name":"XIUTAN","ua":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/120.0.0.0Safari/537.36Edg/120.0.0.0","type":0,"url":"https://xhdwc.tk/xiutan.m3u"}]}
+    {"name":"IPV6","type":0,"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/NoTionGG/MyIPTV/main/iptv.txt","playerType":1}]}
