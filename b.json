@@ -87,5 +87,5 @@
     "logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
     "lives":[
     {"name":"live","type":0,"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/NoTionGG/MyIPTV/main/iptv.txt","playerType":1},
-    {"name":"XIUTAN","ua":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/120.0.0.0Safari/537.36Edg/120.0.0.0","type":0,"url":"https://xhdwc.tk/xiutan.m3u"}]}
+    {"name":"XIUTAN","ua":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/120.0.0.0Safari/537.36Edg/120.0.0.0","type":0,"url":"https://xhdwc.tk/xiutan.m3u"}
     {"name":"IPV6","type":0,"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/NoTionGG/MyIPTV/main/iptv.txt","playerType":1}]}
