@@ -1,6 +1,8 @@
 # TVbox接口
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/NoTionGG/MyIPTV/main/a.json
 
+github代理地址： https://github.moeyy.xyz https://mirror.ghproxy.com/ https://gh-proxy.com https://ghproxy.net 选择一个速度快使用
+
 # 能用IPTV源
 江苏移动ipv6于2024.3.12日全部失效，现在全部替换为黑龙江移动直播源，陕西直播源部分为12M码率
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/NoTionGG/MyIPTV/main/iptv.txt
