@@ -1,10 +1,8 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="黑龙江移动",CCTV1
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
+http://39.134.65.106/PLTV/88888888/224/3221226559/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="黑龙江移动",CCTV2
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="黑龙江移动",CCTV2
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="黑龙江移动",CCTV3
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="黑龙江移动",CCTV4
